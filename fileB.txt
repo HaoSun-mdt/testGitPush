@@ -32,8 +32,7 @@ syALLT
 b
 r
 
-j
-qP
+jSqP
 
 l
 S
@@ -267,6 +266,7 @@ w
 
 
 r
+
 
 
 
