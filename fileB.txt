@@ -30,8 +30,7 @@ K
 
 KVS
 F
-syA
-LT
+syALLT
 b
 r
 
@@ -190,6 +189,7 @@ a
 
 
 v
+
 
 
 
