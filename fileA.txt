@@ -47,7 +47,7 @@ d
 
 
 KY
-aByma
+wByma
 s
 
 p
@@ -236,6 +236,7 @@ j
 
 
 A
+
 
 
 
