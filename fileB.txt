@@ -143,7 +143,7 @@ ND
 S
 x
 bAS
-ju
+jud
 g
 
 e
@@ -334,6 +334,7 @@ O
 
 
 G
+
 
 
 
